@@ -1,0 +1,6 @@
+{
+  "name": "AI Shield India",
+  "description": "Next-generation AI-powered cybersecurity platform for real-time scam threat analysis, message inspection, link checking, and secure cross-device sync.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
